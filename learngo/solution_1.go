@@ -1,3 +1,5 @@
+// Firsst program, pretty basic
+
 package main
 
 import "fmt"
